@@ -4,6 +4,7 @@
   "name": "Final",
   "resources": [
     {"id":{"name":"ReadHoleHitCount","path":"scripts/ReadHoleHitCount/ReadHoleHitCount.yy",},"order":1,},
+    {"id":{"name":"snd_naturewater","path":"sounds/snd_naturewater/snd_naturewater.yy",},"order":0,},
     {"id":{"name":"SetHasSeenTutorial","path":"scripts/SetHasSeenTutorial/SetHasSeenTutorial.yy",},"order":4,},
     {"id":{"name":"obj_mainMenuController","path":"objects/obj_mainMenuController/obj_mainMenuController.yy",},"order":7,},
     {"id":{"name":"spr_course2","path":"sprites/spr_course2/spr_course2.yy",},"order":2,},
