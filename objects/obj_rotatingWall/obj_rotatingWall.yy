@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_course2",
+  "name": "obj_rotatingWall",
   "spriteId": {
-    "name": "spr_course2",
-    "path": "sprites/spr_course2/spr_course2.yy",
+    "name": "spr_ROTATE",
+    "path": "sprites/spr_ROTATE/spr_ROTATE.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -26,13 +26,12 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Courses",
-    "path": "folders/Objects/Courses.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

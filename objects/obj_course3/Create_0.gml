@@ -1,5 +1,5 @@
 // Radius to detect the player around the hole
-detection_radius = 300;
+detection_radius = 200;
 
 // Name of the course
 course_name = "Course 3";

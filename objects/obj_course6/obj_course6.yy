@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_course2",
+  "name": "obj_course6",
   "spriteId": {
-    "name": "spr_course2",
-    "path": "sprites/spr_course2/spr_course2.yy",
+    "name": "spr_course6",
+    "path": "sprites/spr_course6/spr_course6.yy",
   },
   "solid": false,
   "visible": true,
