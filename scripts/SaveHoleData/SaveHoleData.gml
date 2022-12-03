@@ -19,13 +19,13 @@ function SaveHoleData(room_index, hit_count, hole_time){
 			course_name = "Course 4";		
 		break;
 		case 6:
-		case 7:
 			course_name = "Course 5";		
 		break;
+		case 7:
 			course_name = "Course 6";		
 		break;
-		default: // OH FUCK OH SHIT OH GOD
-			course_name = "OH FUCK OH SHIT OH GOD WHAT THE FUCK";		
+		default: // Wait a minute, who are you
+			course_name = "Wait a minute, who are you";		
 		break;
 	}
 	
