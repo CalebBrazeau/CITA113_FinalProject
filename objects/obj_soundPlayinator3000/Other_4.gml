@@ -1,5 +1,5 @@
 switch (room) {
-	case 3:
+	case 5:
 		audio_stop_all();
 		audio_play_sound(snd_naturewater, 9, true, 3);
 	break;
