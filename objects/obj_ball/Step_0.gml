@@ -7,7 +7,7 @@ clamp(strength, 0, max_strength);
 // If the left mouse button was released
 if (mouse_check_button_released(mb_left) && speed == 0) {
 	// Play random hit sound from hit sound array
-	audio_play_sound(hit_sounds[random_range(0, array_length(hit_sounds))], 10, false);
+	audio_play_sound(hit_sounds[random_range(0, array_length(hit_sounds))], 10, false, .15);
 	
 	// Increment the hit count by one
 	hit_count++;

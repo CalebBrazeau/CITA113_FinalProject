@@ -1,5 +1,7 @@
+draw_set_color(c_black);
+
 // Draw the detection radius to visualize its radius
-draw_circle(x, y, detection_radius, true);
+//draw_circle(x, y, detection_radius, true);
 
 // Draw the course name text above the course preview
 draw_text(x, y - 100, course_name);
